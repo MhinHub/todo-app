@@ -1,4 +1,4 @@
-module github.com/Sajid416/todo-app
+module todo-app
 
 go 1.25.1
 
